@@ -1,0 +1,6 @@
+[submodule "survey-route-choice"]
+	path = survey-route-choice
+	url = https://github.com/pedestrian-dynamics-HM/survey-route-choice.git
+[submodule "crownet"]
+	path = crownet
+	url = https://github.com/roVer-HM/crownet.git

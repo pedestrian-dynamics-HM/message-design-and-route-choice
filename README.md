@@ -1,6 +1,6 @@
 
 
-# Code for MDPI Algorithms UQ contribution
+# Designing mobile application messages to impact route choice: a survey and simulation study
 
 This repository contains the code and result data for the article 'Designing mobile application messages to impact route choice: a survey and simulation study'.
 It consists of two sub-repositories:

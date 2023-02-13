@@ -5,10 +5,10 @@
 This repository contains the code and result data for the article 'Designing mobile application messages to impact route choice: a survey and simulation study'.
 Our study comprises two parts 
 
-1. Survey. Please find the minimal data set for the survey in the sub-repository [survey-route-choice](https://github.com/pedestrian-dynamics-HM/survey-route-choice).
-2. Simulation study. Please find the minimal data set for the survey in the sub-repository [crownet](https://github.com/roVer-HM/crownet/tree/route_choice_survey).
+1. Survey. Please find the minimal data set for the __survey__ (survey raw data, scripts for analysis) in the sub-repository [survey-route-choice](https://github.com/pedestrian-dynamics-HM/survey-route-choice).
+2. Simulation study. Please find the minimal data set for the __simulation study__ (source code, scripts for analysis) in the sub-repository [crownet](https://github.com/roVer-HM/crownet/tree/route_choice_survey).
 
-The data minimal data set of each part is stored in a seperate repository. The following table gives an overview how manuscript and repositories are organized:
+The minimal data set for each part is stored in a seperate repository. The following table gives an overview how manuscript and repositories are organized:
 
 
 | Sub-repository      | Objective                                                    | Corresponding section in the manuscript | Comments                                                                  |

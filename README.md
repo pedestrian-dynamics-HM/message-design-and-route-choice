@@ -4,8 +4,8 @@
 
 ## Minimal data set
 
-This repository contains minimal data set for the article 'Designing mobile application messages to impact route choice: a survey and simulation study'.
-Our study comprises two parts: a survey and a simulation study. This is why we organized the minimal data set in two parts: 
+This repository contains the minimal data set for the article 'Designing mobile application messages to impact route choice: a survey and simulation study'.
+Since our study comprises two parts (survey, simulation study), we divided the minimal data set into two parts: 
 
 1. Survey. Please find the minimal data set for the __survey__ (survey raw data, scripts for analysis) in the sub-repository [survey-route-choice](https://github.com/pedestrian-dynamics-HM/survey-route-choice).
 2. Simulation study. Please find the minimal data set for the __simulation study__ (source code, scripts for analysis) in the sub-repository [crownet](https://github.com/roVer-HM/crownet/tree/route_choice_survey).

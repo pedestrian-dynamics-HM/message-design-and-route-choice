@@ -2,21 +2,23 @@
 
 # Designing mobile application messages to impact route choice: a survey and simulation study
 
-This repository contains the code and result data for the article 'Designing mobile application messages to impact route choice: a survey and simulation study'.
-Our study comprises two parts 
+## Minimal data set
+
+This repository contains minimal data set for the article 'Designing mobile application messages to impact route choice: a survey and simulation study'.
+Our study comprises two parts: a survey and a simulation study. This is why we organized the minimal data set in two parts: 
 
 1. Survey. Please find the minimal data set for the __survey__ (survey raw data, scripts for analysis) in the sub-repository [survey-route-choice](https://github.com/pedestrian-dynamics-HM/survey-route-choice).
 2. Simulation study. Please find the minimal data set for the __simulation study__ (source code, scripts for analysis) in the sub-repository [crownet](https://github.com/roVer-HM/crownet/tree/route_choice_survey).
 
-The minimal data set for each part is stored in a seperate repository. The following table gives an overview how manuscript and repositories are organized:
+Please see the following table for a detailed overview on the repositories and the related sections of the manuscript:
 
-
-| Sub-repository      | Objective                                                    | Corresponding section in the manuscript | Comments                                                                  |
+| Sub-repository      | Objective                                                    | Corresponding section of the manuscript | Comments                                                                  |
 |---------------------|--------------------------------------------------------------|-----------------------------------------|---------------------------------------------------------------------------|
 | [survey-route-choice](https://github.com/pedestrian-dynamics-HM/survey-route-choice) | Investigate effect of message design on route choice         | II. Survey                              | requires R installed                                                      |
 |                     | Compute route choice proportions for the traffic simulation  | III. Traffic assignment model           | requires R installed                                                      |
 | [crownet](https://github.com/roVer-HM/crownet/tree/route_choice_survey)             | Investigate effect of message design on congestion situation | IV. Traffic simulation                  | Several requirements (docker, Python, ...)  See README of the repository  |
 
+## Cloning the repositories
 
 We recommend to clone the complete repository including all sub-repositories using
 ```console
